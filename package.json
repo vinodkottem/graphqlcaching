@@ -1,0 +1,26 @@
+{
+  "name": "graphqlcaching",
+  "version": "1.0.0",
+  "description": "sample caching app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinodkottem/graphqlcaching.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinodkottem/graphqlcaching/issues"
+  },
+  "homepage": "https://github.com/vinodkottem/graphqlcaching#readme",
+  "dependencies": {
+    "apollo-server-express": "^1.3.4",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "graphql": "^0.13.2",
+    "graphql-tools": "^2.23.1"
+  }
+}
